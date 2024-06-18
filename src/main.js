@@ -22,7 +22,7 @@ const iziParams = {
     'Sorry, there are no images matching<br>' +
     'your search query.Please try again!',
   position: 'topRight',
-  iconUrl: '../img/error.svg',
+  iconUrl: '../img/sad.svg',
 };
 
 const simpleParams = {
